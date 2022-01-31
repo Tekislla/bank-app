@@ -1,1 +1,2 @@
-# bank-app
+# Bank app
+Java application calling a microservice
